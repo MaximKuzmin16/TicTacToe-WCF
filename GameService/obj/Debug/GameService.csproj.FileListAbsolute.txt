@@ -1,0 +1,14 @@
+C:\Users\Максим\Source\Repos\TicTacToe\GameService\bin\Debug\GameService.dll.config
+C:\Users\Максим\Source\Repos\TicTacToe\GameService\bin\Debug\GameService.dll
+C:\Users\Максим\Source\Repos\TicTacToe\GameService\bin\Debug\GameService.pdb
+C:\Users\Максим\Source\Repos\TicTacToe\GameService\obj\Debug\GameService.csproj.AssemblyReference.cache
+C:\Users\Максим\Source\Repos\TicTacToe\GameService\obj\Debug\GameService.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Source\Repos\TicTacToe\GameService\obj\Debug\GameService.dll
+C:\Users\Максим\Source\Repos\TicTacToe\GameService\obj\Debug\GameService.pdb
+C:\Users\Максим\OneDrive\Desktop\GITHUB\TicTacToe clinet-server WinForms\GameService\bin\Debug\GameService.dll.config
+C:\Users\Максим\OneDrive\Desktop\GITHUB\TicTacToe clinet-server WinForms\GameService\bin\Debug\GameService.dll
+C:\Users\Максим\OneDrive\Desktop\GITHUB\TicTacToe clinet-server WinForms\GameService\bin\Debug\GameService.pdb
+C:\Users\Максим\OneDrive\Desktop\GITHUB\TicTacToe clinet-server WinForms\GameService\obj\Debug\GameService.csproj.AssemblyReference.cache
+C:\Users\Максим\OneDrive\Desktop\GITHUB\TicTacToe clinet-server WinForms\GameService\obj\Debug\GameService.csproj.CoreCompileInputs.cache
+C:\Users\Максим\OneDrive\Desktop\GITHUB\TicTacToe clinet-server WinForms\GameService\obj\Debug\GameService.dll
+C:\Users\Максим\OneDrive\Desktop\GITHUB\TicTacToe clinet-server WinForms\GameService\obj\Debug\GameService.pdb

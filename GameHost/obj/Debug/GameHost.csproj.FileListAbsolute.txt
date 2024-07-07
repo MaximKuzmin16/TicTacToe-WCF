@@ -1,0 +1,23 @@
+C:\Users\Максим\Source\Repos\TicTacToe\GameHost\bin\Debug\GameHost.exe.config
+C:\Users\Максим\Source\Repos\TicTacToe\GameHost\bin\Debug\GameHost.exe
+C:\Users\Максим\Source\Repos\TicTacToe\GameHost\bin\Debug\GameHost.pdb
+C:\Users\Максим\Source\Repos\TicTacToe\GameHost\bin\Debug\GameService.dll
+C:\Users\Максим\Source\Repos\TicTacToe\GameHost\bin\Debug\GameService.pdb
+C:\Users\Максим\Source\Repos\TicTacToe\GameHost\bin\Debug\GameService.dll.config
+C:\Users\Максим\Source\Repos\TicTacToe\GameHost\obj\Debug\GameHost.csproj.AssemblyReference.cache
+C:\Users\Максим\Source\Repos\TicTacToe\GameHost\obj\Debug\GameHost.csproj.SuggestedBindingRedirects.cache
+C:\Users\Максим\Source\Repos\TicTacToe\GameHost\obj\Debug\GameHost.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Source\Repos\TicTacToe\GameHost\obj\Debug\GameHost.csproj.CopyComplete
+C:\Users\Максим\Source\Repos\TicTacToe\GameHost\obj\Debug\GameHost.exe
+C:\Users\Максим\Source\Repos\TicTacToe\GameHost\obj\Debug\GameHost.pdb
+C:\Users\Максим\OneDrive\Desktop\GITHUB\TicTacToe clinet-server WinForms\GameHost\bin\Debug\GameHost.exe.config
+C:\Users\Максим\OneDrive\Desktop\GITHUB\TicTacToe clinet-server WinForms\GameHost\bin\Debug\GameHost.exe
+C:\Users\Максим\OneDrive\Desktop\GITHUB\TicTacToe clinet-server WinForms\GameHost\bin\Debug\GameHost.pdb
+C:\Users\Максим\OneDrive\Desktop\GITHUB\TicTacToe clinet-server WinForms\GameHost\bin\Debug\GameService.dll
+C:\Users\Максим\OneDrive\Desktop\GITHUB\TicTacToe clinet-server WinForms\GameHost\bin\Debug\GameService.pdb
+C:\Users\Максим\OneDrive\Desktop\GITHUB\TicTacToe clinet-server WinForms\GameHost\bin\Debug\GameService.dll.config
+C:\Users\Максим\OneDrive\Desktop\GITHUB\TicTacToe clinet-server WinForms\GameHost\obj\Debug\GameHost.csproj.AssemblyReference.cache
+C:\Users\Максим\OneDrive\Desktop\GITHUB\TicTacToe clinet-server WinForms\GameHost\obj\Debug\GameHost.csproj.CoreCompileInputs.cache
+C:\Users\Максим\OneDrive\Desktop\GITHUB\TicTacToe clinet-server WinForms\GameHost\obj\Debug\GameHost.csproj.Up2Date
+C:\Users\Максим\OneDrive\Desktop\GITHUB\TicTacToe clinet-server WinForms\GameHost\obj\Debug\GameHost.exe
+C:\Users\Максим\OneDrive\Desktop\GITHUB\TicTacToe clinet-server WinForms\GameHost\obj\Debug\GameHost.pdb

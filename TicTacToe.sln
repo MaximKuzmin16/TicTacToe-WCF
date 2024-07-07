@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameService", "GameService\GameService.csproj", "{18E02DC1-9084-4067-9861-90431FD2A303}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameHost", "GameHost\GameHost.csproj", "{DA91A1E5-830A-4EA6-A667-A3F6B39B527D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameClient", "GameClient\GameClient.csproj", "{141E4E46-91C8-4BA8-8B25-E83647E2159C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18E02DC1-9084-4067-9861-90431FD2A303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E02DC1-9084-4067-9861-90431FD2A303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E02DC1-9084-4067-9861-90431FD2A303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E02DC1-9084-4067-9861-90431FD2A303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA91A1E5-830A-4EA6-A667-A3F6B39B527D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA91A1E5-830A-4EA6-A667-A3F6B39B527D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA91A1E5-830A-4EA6-A667-A3F6B39B527D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA91A1E5-830A-4EA6-A667-A3F6B39B527D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{141E4E46-91C8-4BA8-8B25-E83647E2159C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141E4E46-91C8-4BA8-8B25-E83647E2159C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141E4E46-91C8-4BA8-8B25-E83647E2159C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141E4E46-91C8-4BA8-8B25-E83647E2159C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
