@@ -1,7 +1,7 @@
 # TicTacToe WCF
 Tic Tac Toe windows communication foundation application for 2 players
 
-Firstly start "GameHost.exe then start "GameClient.exe" two times to play
+Firstly start "GameHost.exe" then start "GameClient.exe" two times to play
 
 SCREENSHOTS:
 
